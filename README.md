@@ -21,7 +21,7 @@ pip install openmeteo-requests requests-cache retry-requests pandas twilio
    - `mail` — your Gmail address
    - `mail_2` — the recipient email
    - `pw` — your Gmail app password
-   - `weather_params` — set your `latitude` and `longitude` ("www.latlong.net)
+   - `weather_params` — set your `latitude` and `longitude` ("www.latlong.net")
    - Twilio credentials (optional, SMS section is commented out by default)
 
 ## Notes
